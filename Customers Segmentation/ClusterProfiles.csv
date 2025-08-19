@@ -1,0 +1,5 @@
+Cluster;ClusterName;TotalQuantity;TotalRevenue;OrderCount;CategoryCount;AvgCheck;RecencyDays
+0;Least valuable;1.84;736.95;1.37;1;489.59;74
+1;Premium;97.42;38192.11;3.71;3;5702.47;147
+2;Frequent buyers;3.11;2245.70;2.26;2;1014.21;106
+3;Inactive premium;1.65;3309.63;2.00;2;1684.60;569
