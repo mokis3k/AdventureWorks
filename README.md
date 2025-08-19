@@ -1,4 +1,4 @@
-# AdventureWorks – Revenue & Customer Segmentation Analysis  
+# AdventureWorks – Sales & Customer Segmentation Analysis  
 
 ## Project Overview  
 This project explores the **AdventureWorks** dataset provided by Microsoft, which simulates the operations of a bicycle shop.  
